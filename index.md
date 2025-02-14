@@ -5,5 +5,5 @@ title: Home
 
 # Resources
 
-[Hugging Face](https://huggingface.co/)
+[Hugging Face](https://huggingface.co/)  
 [Gandalf](https://gandalf.lakera.ai/intro)
