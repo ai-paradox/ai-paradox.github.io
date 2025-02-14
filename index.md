@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Resources
 
 [Hugging Face](https://huggingface.co/)
