@@ -2,4 +2,4 @@ title: "AI from scratch"
 description: "Follow my journey to becoming an AI expert."
 baseurl: ""
 url: "https://ai-paradox.github.io"
-theme: minima
+remote_theme: pages-themes/modernist@v0.2.0
