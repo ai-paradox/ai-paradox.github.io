@@ -3,19 +3,19 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: #f9f9fa;
+    color: #444;
 }
 
 header, footer {
     text-align: center;
     padding: 2em 1em;
-    background-color: #333;
-    color: #fff;
+    background-color: #eaeaea;
+    color: #333;
 }
 
 header h1 a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
     font-size: 1.5em;
 }
@@ -24,8 +24,8 @@ main {
     max-width: 900px;
     margin: 2em auto;
     padding: 2em;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
     border-radius: 8px;
 }
 
@@ -35,27 +35,27 @@ footer {
 }
 
 a {
-    color: #1a73e8;
+    color: #007bff;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease, text-decoration 0.3s ease;
 }
 
 a:hover {
-    color: #d93025;
+    color: #0056b3;
     text-decoration: underline;
 }
 
 a:visited {
-    color: #4b0082;
+    color: #6c757d;
 }
 
 a:active {
-    color: #e91e63;
+    color: #dc3545;
 }
 
 a:focus {
-    outline: 2px dashed #ff9800;
+    outline: 2px dashed #ffc107;
     outline-offset: 2px;
 }
 
@@ -71,14 +71,14 @@ a.icon-link img {
 a.button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #1a73e8;
+    background-color: #007bff;
     color: white;
     border-radius: 5px;
     text-align: center;
 }
 
 a.button:hover {
-    background-color: #1769aa;
+    background-color: #0056b3;
 }
 
 @media (max-width: 768px) {
@@ -108,9 +108,9 @@ a.button:hover {
 }
 
 .card {
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     padding: 1.5em;
     margin-bottom: 1.5em;
 }
@@ -121,12 +121,12 @@ a.button:hover {
 }
 
 .card p {
-    color: #555;
+    color: #666;
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('hero-image.jpg') no-repeat center center/cover;
-    color: #fff;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('hero-image.jpg') no-repeat center center/cover;
+    color: #333;
     padding: 4em 1em;
     text-align: center;
 }
