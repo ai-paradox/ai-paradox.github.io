@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Home - AI made easy
+title: Everything AI - Home
 ---
-# Kaggle
 
-## Intro to machine learning
+# Mathematics fundamentals
 
-### Introduction
+# Get practical with Python
 
-### Mathematical concepts
+# Security & Ethics
 
-### Python implementation
+# Machine learning
 
 # Resources
 
