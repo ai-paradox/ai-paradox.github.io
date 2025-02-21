@@ -3,16 +3,14 @@ layout: default
 title: Everything AI - Home
 ---
 
-# Mathematics fundamentals
+# Everything AI
 
-# Get practical with Python
+Welcome to **Everything AI**, your comprehensive resource for unraveling the mysteries of artificial intelligence.
 
-# Security & Ethics
+## Explore Topics
 
-# Machine learning
-
-# Resources
-
-[Hugging Face](https://huggingface.co/)  
-[Gandalf](https://gandalf.lakera.ai/intro)  
-[Kaggle](https://www.kaggle.com/)
+- [Mathematics Fundamentals](mathematics.md)
+- [Get Practical with Python](python.md)
+- [Security & Ethics](security_ethics.md)
+- [Machine Learning](machine_learning.md)
+- [Resources](resources.md)
