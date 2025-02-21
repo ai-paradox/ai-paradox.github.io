@@ -3,20 +3,20 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #444;
-    color: #000000;
+    background-color: #d7d9db;
+    color: #444;
 }
 
 header {
     text-align: center;
     padding: 2em 1em;
-    background-color: #add8e6;
-    color: #00008b;
+    background-color: #08086e;
+    color: #ffffff;
 }
 
 footer {
-    background-color: #add8e6;
-    color: #00008b;
+    background-color: #08086e;
+    color: #ffffff;
     padding: 1em;
     text-align: center;
     position: sticky;
