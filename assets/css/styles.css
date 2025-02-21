@@ -142,3 +142,25 @@ a.button:hover {
     font-size: 1.25em;
     color: #444;
 }
+
+.content-wrapper {
+    min-height: 100vh; /* Ensures the wrapper takes at least the full height of the viewport */
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1; /* Allows the main content to take up remaining space */
+    padding: 2em;
+}
+
+footer {
+    background-color: #b0e0e6; /* Light blue background for footer */
+    color: #00008b; /* Deep blue text color */
+    text-align: center;
+    padding: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
