@@ -9,8 +9,8 @@ Welcome to **Everything AI**, your comprehensive resource for unraveling the mys
 
 ## Explore Topics
 
-- [Mathematics Fundamentals](mathematics.md)
-- [Get Practical with Python](python.md)
+- [Mathematics fundamentals](mathematics.md)
+- [Get practical with Python](python.md)
 - [Security & Ethics](security.md)
-- [Machine Learning](machine_learning.md)
+- [Machine learning](machine_learning.md)
 - [Resources](resources.md)
