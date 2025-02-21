@@ -27,7 +27,7 @@ footer {
 }
 
 header h1 {
-    color: #00008b;
+    color: #ffffff;
     text-decoration: none;
     font-size: 1.5em;
 }
@@ -46,6 +46,10 @@ a {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+footer a {
+    color: #ffffff;
 }
 
 a:hover {
