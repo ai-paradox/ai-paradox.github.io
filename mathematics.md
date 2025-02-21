@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mathematics Fundamentals
+title: Mathematics fundamentals
 ---
 
-# Mathematics Fundamentals
+# Mathematics fundamentals
