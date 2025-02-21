@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: content
 title: Machine learning
 ---
 
