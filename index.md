@@ -11,6 +11,6 @@ Welcome to **Everything AI**, your comprehensive resource for unraveling the mys
 
 - [Mathematics Fundamentals](mathematics.md)
 - [Get Practical with Python](python.md)
-- [Security & Ethics](security_ethics.md)
+- [Security & Ethics](security.md)
 - [Machine Learning](machine_learning.md)
 - [Resources](resources.md)
