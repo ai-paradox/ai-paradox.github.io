@@ -31,6 +31,57 @@ header {
     background-color: #0000cd;
 }
 
+.menu-button {
+    position: absolute;
+    right: 1em;
+    top: 1em;
+    padding: 10px 20px;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.menu-button:hover {
+    background-color: #0000cd;
+}
+
+.nav-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 1em;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.nav-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu ul li {
+    margin: 0;
+}
+
+.nav-menu ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #444;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.nav-menu ul li a:hover {
+    background-color: #f0f0f0;
+}
+
 footer {
     background-color: #08086e;
     color: #ffffff;
