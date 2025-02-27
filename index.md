@@ -26,11 +26,11 @@ Welcome to **Everything AI**, your comprehensive resource for unraveling the mys
 - **[Resources](resources.md)**
   - Access a curated list of resources, including books, tutorials, and tools, to deepen your understanding of AI and stay updated with the latest trends.
 
-  **[Zero Trust](zerotrust.md)**
-- Explore the principles and best practices of Zero Trust security, including resources on implementation, tools, and case studies to enhance your cybersecurity strategy.
+- **[Zero Trust](zerotrust.md)**
+  - Explore the principles and best practices of Zero Trust security, including resources on implementation, tools, and case studies to enhance your cybersecurity strategy.
 
-**[Quantum cryptography](quantum.md)**
-- Dive into the world of quantum cryptography with a collection of resources, including research papers, tutorials, and tools, to understand its applications and future potential.
+- **[Quantum cryptography](quantum.md)**
+  - Dive into the world of quantum cryptography with a collection of resources, including research papers, tutorials, and tools, to understand its applications and future potential.
 
-**[LLM & Agents](llm.md)**
-- Discover how Large Language Models (LLMs) and AI agents are transforming industries. Access resources, including articles, tools, and case studies, to stay informed about the latest advancements.
+- **[LLM & Agents](llm.md)**
+  - Discover how Large Language Models (LLMs) and AI agents are transforming industries. Access resources, including articles, tools, and case studies, to stay informed about the latest advancements.
